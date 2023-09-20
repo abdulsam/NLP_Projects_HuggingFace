@@ -1,2 +1,5 @@
 # HuggingFace
-Most of the code are take from the book by Lewis Tunstall to practice and understand capabilities of different models and techniques for NLP.
+## Note Books
+Text Generation with HuggingFace. [NoteBook](https://github.com/abdulsam/HuggingFace/blob/main/HuggingFace_text_generation.ipynb)
+
+Most of the code is taken from Lewis Tunstall's book to practice and understand the capabilities of different models and techniques for NLP.
